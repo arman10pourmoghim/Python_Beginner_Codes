@@ -5,4 +5,4 @@ This repository is allocated to python codes, which are suitable for learning ba
 
 2- Function
 
-3- Try&Except
+3- Try and Except

@@ -6,3 +6,5 @@ This repository is allocated to python codes, which are suitable for learning ba
 2- Function
 
 3- Try and Except
+
+4- f-string
